@@ -11,7 +11,7 @@ namespace EmailSender
         {
        
             GmailClientInfo client = new GmailClientInfo() {
-                 GmailUserEmail= "ass021@gmail.com",
+                 GmailUserEmail= "someemail@gmail.com",
                  GmailUserPassword= "a",                  
             };
 
